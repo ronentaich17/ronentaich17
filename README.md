@@ -12,4 +12,4 @@ I'm Ronen, a software engineer based in California.
 
 I enjoy working on a variety of projects, some of which include:
 
-- **Factflow:** A full-stack web application utlizing React and a Postgres database to give users curated fun facts and articles based on a topic of their choice.
+- **🕸️ Factflow:** A full-stack web application utlizing React and a Postgres database to give users curated fun facts and articles based on a topic of their choice.
