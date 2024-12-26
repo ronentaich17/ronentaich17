@@ -1,4 +1,4 @@
-# Hi there!🙂
+# Hi there 🙂
 
 I'm Ronen, a software engineer based in California.
 
