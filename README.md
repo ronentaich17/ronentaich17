@@ -1,14 +1,13 @@
-# Hi there 🙂
+# Welcome To My GitHub 🙂
 
-I'm Ronen, a software engineer based in California.
+I'm a California-based software engineer and recent graduate from UC Davis. Feel free to look through my projects, both old and new, below.
 
 ## About Me
 
-- **💻 Languages:** Python, C/C++, Golang
-<!-- - **🔧 Tools:** React, Flask -->
-- **💡 Interests:** Data Science, Web Development
+**💻 Languages:** Python, C/C++, Go
+
+**💡 Interests:** Data Science, Test Engineering
 
 ## My Projects
 
-- **🕸️ Factflow:** A web application designed to give users a curated list of fun facts and articles based on a topic of their choice (tech, finance, etc.).
-- **🖌️ Paintwave (WIP, currently private):** A web application in which users upload a painting of their choice and get recomended a Spotify song/playlist that matches the mood of their piece.
+**🕸️ Factflow:** A web application designed to give users a curated list of fun facts and articles based on a topic of their choice.
